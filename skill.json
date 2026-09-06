@@ -1,0 +1,12 @@
+{
+  "name": "genpark-realtime-jitter-buffer-audio-packet-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Real-time RTP and WebSocket audio packet jitter buffer optimizer smoothing network latency and clock drift for speech streaming.",
+  "category": "Voice AI & Real-Time Audio Streaming",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-realtime-jitter-buffer-audio-packet-scheduler-skill",
+  "verified": true,
+  "stars": 8
+}
